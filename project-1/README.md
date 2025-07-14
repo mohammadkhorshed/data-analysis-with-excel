@@ -4,7 +4,7 @@ This repository showcases a comprehensive **Sales Data Analysis Dashboard** buil
 
 ---
 
-![Sales Dashboard](project-1/sales_overview_dashboard.jpg)
+![Sales Dashboard](sales_overview_dashboard.jpg)
 
 ## 🔍 Project Overview
 
